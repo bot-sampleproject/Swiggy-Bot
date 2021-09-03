@@ -58,7 +58,7 @@
                 {
             "tag": "delivery-instructions",
             "patterns": ["I want to add delivery instructions", "Please add delivery instructions", "Include delivery instructions"],
-            "responses": ["Please tell me your delivery instructions, I will pass it on to our delivery executive."],
+            "responses": ["Please tell me the your delivery instructions, I will pass it on to our delivery executive."],
             "action": "ADD_DELIVERY_INSTRUCTIONS",
             "next-intent-tag": ["added-delivery-instructions"]
                 },
