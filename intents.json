@@ -3,7 +3,7 @@
 	[
 				{
 			"tag": "greeting",
-			"patterns": ["Hi there", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
+			"patterns": ["Hello there", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
 			"responses": ["Hello, how can I help?", "Good to see you again", "Hi there, how can I help?"]
         		},
         		{
@@ -23,7 +23,7 @@
                 },
                 {
             "tag": "options",
-            "patterns": ["How you could help me?", "What help you are provide?", "How you can be helpful?", "What support is offered"],
+            "patterns": ["How you could help  me?", "What help you are provide?", "How you can be helpful?", "What support is offered"],
             "responses": ["I can help you with your order status, delivery, and refund. ", "I can check your order status, and cancel your order."]
                 },
                 {
