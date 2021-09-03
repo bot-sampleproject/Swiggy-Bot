@@ -29,7 +29,7 @@
                 {
             "tag": "order-status-request",
             "patterns": ["Please check my order status.", "I am not able to check my order status.", "Help me with my order status", "Order Status", "Where is my order?", "Where is my food", "Track my order", "Track my food"],
-            "responses": ["I am checking your status of the your order, Please wait.", "I am checking up with for your order"],
+            "responses": ["I am checking your status of the your order, Please  wait.", "I am checking up with for your order"],
             "action": "CHECK_ORDER_STATUS",
             "next-intent-tag": ["order-status"]
                 },
